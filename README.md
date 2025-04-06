@@ -2,7 +2,8 @@
 
 ## Project Purpose
 
-This project aims to create an interactive web map visualizing the locations of fire lookouts across Australia, including both currently operational sites and historical ones that may no longer be standing. The goal is to provide a geographic perspective on the data compiled by the Fire Lookouts Downunder website.
+This project aims to create an interactive web map visualizing the locations of fire lookouts across Australia, including both currently operational sites and historical ones that may no longer be standing. The goal is to provide a geographic perspective on the data compiled by the Fire Lookouts Downunder website. Fire lookouts are an important part of Australian history, and whilst niche, it is important to record. 
+Personally, this project serves as an attempt to learn python and some basic html. 
 
 ## Data Source and Attribution
 
@@ -36,7 +37,7 @@ Lookouts listed with 6-figure grid references (primarily in Victoria) have been 
 
 The current version of the interactive map can be viewed here:
 
-**[>>> View the Fire Lookout Map <<<]([https://stertafed.github.io/fire-lookout-map/)**
+**[>>> View the Fire Lookout Map <<<](https://stertafed.github.io/fire-lookout-map/)**
 
 ## Future Enhancements
 
