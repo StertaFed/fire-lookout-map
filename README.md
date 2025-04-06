@@ -36,7 +36,7 @@ Lookouts listed with 6-figure grid references (primarily in Victoria) have been 
 
 The current version of the interactive map can be viewed here:
 
-**[>>> View the Fire Lookout Map <<<]([https://your-username.github.io/your-repository-name/](https://github.com/StertaFed/fire-lookout-map/tree/main)**
+**[>>> View the Fire Lookout Map <<<]([https://stertafed.github.io/fire-lookout-map/)**
 
 ## Future Enhancements
 
