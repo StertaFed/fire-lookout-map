@@ -5,6 +5,8 @@
 This project aims to create an interactive web map visualizing the locations of fire lookouts across Australia, including both currently operational sites and historical ones that may no longer be standing. The goal is to provide a geographic perspective on the data compiled by the Fire Lookouts Downunder website. Fire lookouts are an important part of Australian history, and whilst niche, it is important to record. 
 Personally, this project serves as an attempt to learn python and some basic html. 
 
+**[>>> View the Fire Lookout Map <<<](https://stertafed.github.io/fire-lookout-map/)**
+
 ## Data Source and Attribution
 
 **Important Note:** All lookout information presented on the map originates entirely from the excellent and comprehensive website:
@@ -44,6 +46,7 @@ The current version of the interactive map can be viewed here:
 *   Manually converting or finding coordinates for lookouts currently listed with 6-figure grid references to add them to the map.
 *   Regularly updating the data by re-running the scraping and processing scripts (respecting the source website's resources).
 *   Potentially exploring alternative mapping libraries or UI designs for improved presentation.
+*   'Single click' update to html via python 
 
 ## Acknowledgements
 
