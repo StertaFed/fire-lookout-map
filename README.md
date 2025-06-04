@@ -1,5 +1,7 @@
 # Mapping Australia's Fire Lookouts
 
+## Note: The website is currently unpublished to re-use the license for another project. HTML can still be downloaded and run!
+
 ## Project Purpose
 
 This project aims to create an interactive web map visualizing the locations of fire lookouts across Australia, including both currently operational sites and historical ones that may no longer be standing. The goal is to provide a geographic perspective on the data compiled by the Fire Lookouts Downunder website. Fire lookouts are an important part of Australian history, and whilst niche, it is important to record. 
